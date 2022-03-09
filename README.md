@@ -1,10 +1,16 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lo%C3%AFc-vanden-bossche-520a10209/)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)](https://gitlab.com/Loic-Vanden-Bossche)
-
+[![WakaTime Badge](https://wakatime.com/badge/user/b8908a14-8672-400c-aa98-9dcdfb120d45.svg)](https://wakatime.com/@b8908a14-8672-400c-aa98-9dcdfb120d45)
 
 Hey there 👋
 
 I’m Loïc, a junior full-stack engineer. I’m currently working at [Neoxia](https://neoxia.com/).
+
+## ⌚ Coding time
+
+<a href="https://wakatime.com/@lvdb">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=lvdb&layout=compact&langs_count=15&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 ## 📌 Pinned Repositories
 
@@ -22,10 +28,6 @@ I’m Loïc, a junior full-stack engineer. I’m currently working at [Neoxia](h
 ## &#x1f4c8; GitHub Stats
 
 <br>
-
-<a href="https://github.com/Loic-Vanden-Bossche">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loic-Vanden-Bossche&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <a href="https://github.com/Loic-Vanden-Bossche">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Loic-Vanden-Bossche&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
