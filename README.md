@@ -22,10 +22,10 @@ I’m Loïc, a junior full-stack engineer. I’m currently working at [Neoxia](h
 <br>
 
 <a href="https://github.com/Loic-Vanden-Bossche/DMCA-Survivor">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Loic-Vanden-Bossche&repo=DMCA-Survivor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34?" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Loic-Vanden-Bossche&repo=DMCA-Survivor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/Loic-Vanden-Bossche/Dockerize">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Loic-Vanden-Bossche&repo=Dockerize&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34?" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Loic-Vanden-Bossche&repo=Dockerize&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <br>
