@@ -17,7 +17,7 @@ I’m Loïc, a junior full-stack engineer. I’m currently working at [Neoxia](h
 <br>
 <br>
 
-## 📌 Pinne Repositories
+## 📌 Pinned Repositories
 
 <br>
 
