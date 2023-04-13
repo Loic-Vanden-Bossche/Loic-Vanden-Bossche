@@ -83,3 +83,6 @@ I’m Loïc, a junior full-stack engineer. I’m currently working at [Neoxia](h
 </details>
 
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
