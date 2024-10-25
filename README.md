@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-I’m Loïc, a junior full-stack engineer. I’m currently working at [Neoxia](https://neoxia.com/).
+I’m Loïc, full-stack engineer. I’m currently working at [Neoxia](https://neoxia.com/).
 
 ## ⌚ Coding time
 
